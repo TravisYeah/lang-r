@@ -1,6 +1,6 @@
 {
   "name": "codemirror-lang-r",
-  "version": "0.1.0-0",
+  "version": "0.1.0-1",
   "description": "R language support for the CodeMirror code editor",
   "scripts": {
     "build": "cm-buildhelper src/r.ts",
