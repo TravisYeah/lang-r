@@ -12,7 +12,7 @@ number of [examples](https://codemirror.net/examples/) and the
 [documentation](https://codemirror.net/docs/).
 
 This code is released under an
-[MIT license](https://github.com/TravisYeah/lang-r/tree/main/LICENSE).
+[MIT license](https://github.com/TravisYeah/lang-r/blob/master/LICENSE).
 
 We aim to be an inclusive, welcoming community. To make that explicit,
 we have a [code of
